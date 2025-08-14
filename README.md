@@ -55,6 +55,11 @@ Overall to Potential Ratio
 Skill Gap
 Body Mass Index (BMI):
 
+pie chart for age group:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a155e8a-2757-48a2-ae22-7b69bd15cede" />
+
+
+
 
 📊 Tools & Libraries Used
 
