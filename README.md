@@ -58,6 +58,9 @@ Body Mass Index (BMI):
 pie chart for age group:
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a155e8a-2757-48a2-ae22-7b69bd15cede" />
 
+Bar chart for FIFA dataset:
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d098895-5548-42fc-9382-bf445f9de1e1" />
 
 
 
